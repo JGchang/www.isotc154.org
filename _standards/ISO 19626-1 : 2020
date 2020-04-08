@@ -1,0 +1,27 @@
+---
+name: ISO 19626-1 : 2020
+type: international
+title: "Processes, data elements and documents in commerce, industry and administration -- Trusted communication platforms for elctronic documents -- Part 1: Fundamentals"
+publication_date: 2019-06-07
+---
+
+== Introduction
+
+As electronic business has increased,  business collaborations need trusted e-communications to be secure in an open and distributed environment.  It was difficult to recognize the integrity about a trusted commmunication in business transactions during legal retention period.   To improve this situation, it is essential to draw out a dematerializing solution that can guarantee the trustworthiness of electronically communicated document given legal evidence.
+As a dematerialization solution, this document provides trusted communication platform which can keep the evidence about electronically communicated documents in a reliable and trustworthy manner.  It makes business transaction accountable and reliable  chain under the open and distributed ICT environment for a long period of time needed as legal evidences.  An evidence generated via a trusted communication platform can account for the truth of e-communication activities and facilitate trusted services.
+
+////
+IMPORTANT -- the electronic file of this document contains colours which are considered to be useful for the correct understanding of the document. Users should therefore consider printing this document using a colour printer.
+////
+
+== Scope
+
+This document defines the requirements about trusted communication in legal, administrative and technical considerations. This document shows a TCP system architecture to guarantee trusted communication  and promote trusted services by providing trusted communication evidence as the proof.
+This document focuses on TCP at the view of 7th application layer of OSI (Open Systems Interconnection) Reference Model.
+
+////
+== Who needs this standard?
+
+The audiences are the policy makers for IT innovation such as dematerialization, legal experts regarding electronic activities, IT planners for single windows and secure transactions, IT service providers related to distributed networking and ledger, trusted system auditors, trusted communication concerned parties and so on.
+
+////
